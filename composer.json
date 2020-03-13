@@ -1,5 +1,12 @@
 {
     "name": "peevi/somepackage",
     "type": "library",
-    "require": {}
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Peevi\\": "/"
+        }
+    }
 }
