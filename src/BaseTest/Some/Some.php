@@ -1,9 +1,6 @@
 <?php
 
-namespace Koran\Some;
-
-
-require_once('../BaseTest.php');
+namespace BaseTest\Some;
 
 
 class Some extends BaseTest{
