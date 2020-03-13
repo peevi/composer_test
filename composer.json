@@ -1,0 +1,5 @@
+{
+    "name": "peevi/somepackage",
+    "type": "library",
+    "require": {}
+}
