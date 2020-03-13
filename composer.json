@@ -1,7 +1,7 @@
 {
     "name": "peevi/somepackage",
-    "type": "library",
-    "require": {
-        "php": ">=7.1.0"
-    }
+    "description": "Test",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {}
 }
