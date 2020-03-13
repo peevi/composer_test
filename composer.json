@@ -3,5 +3,10 @@
     "description": "Test",
     "type": "project",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Koran\\": "/"
+        }
+    },
 }
