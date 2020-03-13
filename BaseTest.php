@@ -1,6 +1,6 @@
 <?php
 
-namespace Koran;
+namespace BaseTest;
 
 
 class BaseTest{
